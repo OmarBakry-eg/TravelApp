@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "175254687155",
+    "firebase_url": "https://travelapp-ebdea.firebaseio.com",
+    "project_id": "travelapp-ebdea",
+    "storage_bucket": "travelapp-ebdea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175254687155:android:c4b375d3d092691ef94fc6",
+        "android_client_info": {
+          "package_name": "com.omarbakry.travel_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175254687155-c6ok47lc61o8f85um9dkoofd75sl4tf6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEUKDQE0igl0IWQN7GXQL16hMZeMCgidY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175254687155-c6ok47lc61o8f85um9dkoofd75sl4tf6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
